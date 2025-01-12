@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shaurav Parajuli</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1 align="center">Hi 👋, I'm Saurab Pandey</h1>
+<h3 align="center">A passionate Full stack developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RxZjE5ZWJkam9pMGdueTducDFzNmxkMmRlemllc2U0NHhkZzA3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauravparajuli123&label=Profile%20views&color=0e75b6&style=flat" alt="shauravparajuli123" /> </p>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,PHP,REACT,ANGULAR**
 
-- 📫 How to reach me **parajulishaurav8@gmail.com**
+- 📫 How to reach me **sauravpandey450@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
