@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shauravparajuli123](https://github.com/Shauravparajuli123)
+- 👨‍💻 All of my projects are available at [https://github.com/Saurab32](https://github.com/Saurab32))
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,PHP,REACT,ANGULAR**
 
