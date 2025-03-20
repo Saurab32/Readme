@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saurab Pandey</h1>
-<h3 align="center">A passionate Full stack developer from Nepal</h3>
+<h3 align="center">A passionate Developer From Nepal </h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RxZjE5ZWJkam9pMGdueTducDFzNmxkMmRlemllc2U0NHhkZzA3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauravparajuli123&label=Profile%20views&color=0e75b6&style=flat" alt="shauravparajuli123" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
-
-- 🤝 I’m looking for help with **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saurab32](https://github.com/Saurab32))
 
